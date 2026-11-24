@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ZJU-Zhejiang%20University-2563EB?style=flat-square&logo=googlescholar&logoColor=white&labelColor=1E3A8A" height="28" alt="Zhejiang University" />&nbsp;&nbsp;<a href="mailto:3220103337@zju.edu.cn"><img src="https://img.shields.io/badge/Email-3220103337%40zju.edu.cn-0EA5E9?style=flat-square&logo=minutemailer&logoColor=white&labelColor=0369A1" height="28" alt="Email" /></a>
+  <a href="http://www.math.zju.edu.cn"><img src="https://img.shields.io/badge/ZJU-Zhejiang%20University-2563EB?style=flat-square&logo=googlescholar&logoColor=white&labelColor=1E3A8A" height="28" alt="Zhejiang University" /></a>&nbsp;&nbsp;<a href="mailto:3220103337@zju.edu.cn"><img src="https://img.shields.io/badge/Email-3220103337%40zju.edu.cn-0EA5E9?style=flat-square&logo=minutemailer&logoColor=white&labelColor=0369A1" height="28" alt="Email" /></a>
 </p>
 
 <br/>
@@ -27,11 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2608.04587"><img src="https://img.shields.io/badge/Paper-MetaVideoAgent%20%C2%B7%20arXiv%202608.04587-2563EB?style=flat-square&logo=arxiv&logoColor=white&labelColor=334155" height="25" alt="MetaVideoAgent Paper" /></a>&nbsp;&nbsp;<a href="https://openreview.net/forum?id=vSsi8P1jEe"><img src="https://img.shields.io/badge/Paper-spAug%20%C2%B7%20OpenReview-DB2777?style=flat-square&logo=readthedocs&logoColor=white&labelColor=334155" height="25" alt="spAug Paper" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Alibaba-VELLDEPTH"><img src="https://img.shields.io/badge/Org-Alibaba--VELLDEPTH-0284C7?style=flat-square&logo=github&logoColor=white&labelColor=334155" height="24" alt="Alibaba-VELLDEPTH" /></a>&nbsp;<a href="https://github.com/xSTAT-lab"><img src="https://img.shields.io/badge/Org-xSTAT--lab-BE185D?style=flat-square&logo=github&logoColor=white&labelColor=334155" height="24" alt="xSTAT-lab" /></a>&nbsp;&nbsp;<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="24" alt="PyTorch" /></a>&nbsp;<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-D97706?style=flat-square&logo=huggingface&logoColor=white" height="24" alt="Hugging Face" /></a>&nbsp;<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--learn-EA580C?style=flat-square&logo=scikitlearn&logoColor=white" height="24" alt="Scikit-learn" /></a>
+  <a href="https://github.com/Alibaba-VELLDEPTH"><img src="https://img.shields.io/badge/Org-Alibaba--VELLDEPTH-0284C7?style=flat-square&logo=github&logoColor=white&labelColor=334155" height="24" alt="Alibaba-VELLDEPTH" /></a>&nbsp;<a href="https://arxiv.org/abs/2608.04587"><img src="https://img.shields.io/badge/Paper-MetaVideoAgent%20%C2%B7%20arXiv%202608.04587-2563EB?style=flat-square&logo=arxiv&logoColor=white&labelColor=334155" height="24" alt="MetaVideoAgent Paper" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/xSTAT-lab"><img src="https://img.shields.io/badge/Org-xSTAT--lab-BE185D?style=flat-square&logo=github&logoColor=white&labelColor=334155" height="24" alt="xSTAT-lab" /></a>&nbsp;<a href="https://openreview.net/forum?id=vSsi8P1jEe"><img src="https://img.shields.io/badge/Paper-spAug%20%C2%B7%20OpenReview-DB2777?style=flat-square&logo=readthedocs&logoColor=white&labelColor=334155" height="24" alt="spAug Paper" /></a>
 </p>
 
 <br/>
