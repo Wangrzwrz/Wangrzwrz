@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF2F6,50:DCE5F0,100:C6D4E3&height=155&section=header&text=Ruize%20Wang&fontSize=42&fontColor=1E293B&animation=fadeIn&fontAlignY=45" width="100%" alt="Header" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A41%2C50:253C5C%2C100:324E78&height=155&section=header&text=Ruize%20Wang&fontSize=42&fontColor=F1F5F9&animation=fadeIn&fontAlignY=45" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EEF2F6%2C50:DCE5F0%2C100:C6D4E3&height=155&section=header&text=Ruize%20Wang&fontSize=42&fontColor=1E293B&animation=fadeIn&fontAlignY=45" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF2F6%2C50:DCE5F0%2C100:C6D4E3&height=155&section=header&text=Ruize%20Wang&fontSize=42&fontColor=1E293B&animation=fadeIn&fontAlignY=45" width="100%" alt="Header" />
+  </picture>
 </div>
 
 <p align="center">
@@ -19,11 +23,11 @@
 ### 🚀 Open-Source & Publications
 
 <p align="center">
-  <a href="https://github.com/Alibaba-VELLDEPTH/MetaVideoAgent"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alibaba-VELLDEPTH&repo=MetaVideoAgent&show_owner=false&hide_border=false&border_radius=12&bg_color=FFFFFF&border_color=38BDF8&title_color=1D4ED8&icon_color=0EA5E9&text_color=475569&description_lines_count=2" alt="MetaVideoAgent" /></a>&nbsp;&nbsp;<a href="https://github.com/xSTAT-lab/spAug"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=xSTAT-lab&repo=spAug&show_owner=false&hide_border=false&border_radius=12&bg_color=FFFFFF&border_color=F472B6&title_color=BE185D&icon_color=EC4899&text_color=475569&description_lines_count=2" alt="spAug" /></a>
+  <a href="https://github.com/Alibaba-VELLDEPTH/MetaVideoAgent"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Alibaba-VELLDEPTH&repo=MetaVideoAgent&show_owner=false&hide_border=false&border_radius=12&bg_color=161B22&border_color=38BDF8&title_color=60A5FA&icon_color=38BDF8&text_color=94A3B8&description_lines_count=2&v=2" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Alibaba-VELLDEPTH&repo=MetaVideoAgent&show_owner=false&hide_border=false&border_radius=12&bg_color=FFFFFF&border_color=38BDF8&title_color=1D4ED8&icon_color=0EA5E9&text_color=475569&description_lines_count=2&v=2" /><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alibaba-VELLDEPTH&repo=MetaVideoAgent&show_owner=false&hide_border=false&border_radius=12&bg_color=FFFFFF&border_color=38BDF8&title_color=1D4ED8&icon_color=0EA5E9&text_color=475569&description_lines_count=2&v=2" alt="MetaVideoAgent" /></picture></a>&nbsp;&nbsp;<a href="https://github.com/xSTAT-lab/spAug"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=xSTAT-lab&repo=spAug&show_owner=false&hide_border=false&border_radius=12&bg_color=161B22&border_color=F472B6&title_color=F472B6&icon_color=EC4899&text_color=94A3B8&description_lines_count=2" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=xSTAT-lab&repo=spAug&show_owner=false&hide_border=false&border_radius=12&bg_color=FFFFFF&border_color=F472B6&title_color=BE185D&icon_color=EC4899&text_color=475569&description_lines_count=2" /><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=xSTAT-lab&repo=spAug&show_owner=false&hide_border=false&border_radius=12&bg_color=FFFFFF&border_color=F472B6&title_color=BE185D&icon_color=EC4899&text_color=475569&description_lines_count=2" alt="spAug" /></picture></a>
 </p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2608.04587"><img src="https://img.shields.io/badge/Paper-MetaVideoAgent%20%C2%B7%20arXiv%202608.04587-2563EB?style=flat-square&logo=arxiv&logoColor=white&labelColor=334155" height="25" alt="MetaVideoAgent Paper" /></a>&nbsp;&nbsp;<a href="https://openreview.net/forum?id=vSsi8P1jEe"><img src="https://img.shields.io/badge/Paper-spAug%20%C2%B7%20OpenReview-DB2777?style=flat-square&logo=openreview&logoColor=white&labelColor=334155" height="25" alt="spAug Paper" /></a>
+  <a href="https://arxiv.org/abs/2608.04587"><img src="https://img.shields.io/badge/Paper-MetaVideoAgent%20%C2%B7%20arXiv%202608.04587-2563EB?style=flat-square&logo=arxiv&logoColor=white&labelColor=334155" height="25" alt="MetaVideoAgent Paper" /></a>&nbsp;&nbsp;<a href="https://openreview.net/forum?id=vSsi8P1jEe"><img src="https://img.shields.io/badge/Paper-spAug%20%C2%B7%20OpenReview-DB2777?style=flat-square&logo=readthedocs&logoColor=white&labelColor=334155" height="25" alt="spAug Paper" /></a>
 </p>
 
 <p align="center">
@@ -33,5 +37,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C6D4E3,50:DCE5F0,100:EEF2F6&height=90&section=footer" width="100%" alt="Footer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:324E78%2C50:253C5C%2C100:1B2A41&height=110&section=footer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:C6D4E3%2C50:DCE5F0%2C100:EEF2F6&height=110&section=footer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C6D4E3%2C50:DCE5F0%2C100:EEF2F6&height=110&section=footer" width="100%" alt="Footer" />
+  </picture>
 </div>
